@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css'
-import Slider from './Components/Slider'
+import SliderModule from './Components/SliderModule'
 
 export default function App() {
   return (
     <>
-      <Slider />
+      <SliderModule />
     </>
   )
 }
